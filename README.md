@@ -15,7 +15,6 @@ To build these projects, I've used a variety of tools and technologies, includin
 - NumPy
 - Scikit-learn
 - TensorFlow
-- Keras
 - Matplotlib
 - Seaborn
 - Roboflow
